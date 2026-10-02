@@ -1,3 +1,8 @@
+# Local image generation on 2026 macbook pro
+
+- 24 GB of ram
+- wanted to use some free image generation
+
 # qwen
 
 Local text-to-image generation on Apple silicon.
